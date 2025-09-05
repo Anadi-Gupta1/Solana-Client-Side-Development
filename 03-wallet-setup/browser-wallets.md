@@ -1,0 +1,1 @@
+// Browser wallet setup guide
